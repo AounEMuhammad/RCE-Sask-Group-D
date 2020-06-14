@@ -1,0 +1,20 @@
+Homepage ->
+	-Homepage 1
+	-Register/Login-> 
+	-Register Page, (101)
+	-Login Page, (102)
+	-Verification pages (103,104)
+About Us->
+	-About Us (2)
+	-New and Events (201)
+	-Our Strategic Directions (202)
+
+Things to do-> 
+	- Volunteering ->(302(0), 302(1) 
+	- Library (3, , 303(0), 303(1), 303(2))
+Local Projects- > 
+	-Local Projects (5)
+Contact US -> 
+	-Did't have page for that
+Thought of the day -> 
+	-Thought of the day (4)
